@@ -1,19 +1,14 @@
-.App {
+/* .App {
   text-align: center;
   padding: 20px;
   min-height: 100vh;
   background-image: url('/background.png');
-  /* Path relative to the public folder */
   background-size: cover;
-  /* Cover the entire area */
   background-position: center;
-  /* Center the image */
   background-repeat: no-repeat;
-  /* Prevent repeating */
   color: white;
-  /* Adjust text color if needed */
-}
+} */
 
-section {
+/* section {
   margin: 20px 0;
-}
+} */
